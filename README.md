@@ -1,4 +1,4 @@
-该灰产公司已经收购了下面开源项目并注入恶意代码，使用前请评估，尤其在企业内使用
+该[黑产公司](https://v2ex.com/t/1138125)已经收购了下面开源项目并注入恶意代码，使用前请评估，尤其在企业内使用
 
 lnmp、Oneinstack、alist、hutool，
 
@@ -63,7 +63,7 @@ lnmp、Oneinstack、alist、hutool，
     + 首先[水平不怎么样](https://github.com/AlistGo/alist/issues/8678)，其次挺没底线，用这个项目应该也有大公司要职hr或者程序员吧，可以拉黑这些玩意，稍后这里整理个list看看哪些人
 + 另，如果你觉得我没素质，那你说的对
 + 另，不要尝试删除，删一发二，全平台，问问你们程序员杨辉三角知道吧，如果删按照那个新增，不过神仙osNsme，大概率不知道
-+ 另，不排除是[黑灰产恶意收购](https://meta.appinn.net/t/topic/72174/15)，这种事情还挺多的
++ 另，不排除是[黑灰产恶意收购](https://meta.appinn.net/t/topic/72174/15)，这种事情还挺多的，[已经有面试者说是搞黑产的了](https://v2ex.com/t/1138125)
 + 另，不要相信xhofe及其所有平台账号，包括授权应用程序等，大概率同步收购，不排除原作者已经被缅北黑灰产业控制
 
 
@@ -71,6 +71,7 @@ lnmp、Oneinstack、alist、hutool，
 
 
 
+![image](https://github.com/user-attachments/assets/18c2ce4c-2285-4263-b1f8-c42f12814d36)
 
 
 
